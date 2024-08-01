@@ -44,15 +44,14 @@ footer {
   width: 100%;
 }
 ul {
-  text-align: left;
   list-style-position: inside;
 }
 
 .website {
   padding: 10px;
   background-color: lightgray;
-  max-width: 800px;
-  min-width: 700px;
+  max-width: 90%px;
+  margin: auto;
   text-align: center;
 }
 
@@ -63,7 +62,10 @@ ul {
   border-color: gray;
   box-shadow: 0 0 10 px rgb(36, 49, 46, 0.7);
   padding: 0.5em;
-  width: 20%;
+  max-width: 20%;
   margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
   float: right;
+  display: block;
 }

@@ -59,7 +59,7 @@ footer {
   bottom: 0;
   width: 100%;
 }
-ul {
+#mypositions_list {
   text-align: left;
   list-style-position: inside;
 }

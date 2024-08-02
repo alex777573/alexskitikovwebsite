@@ -78,7 +78,7 @@ ul {
   border-style: groove;
   border-color: gray;
   box-shadow: 0 0 10 px rgb(36, 49, 46, 0.7);
-  padding: auto;
+  padding: 0em;
   width: 20%;
   margin-bottom: 1em;
   float: right;
